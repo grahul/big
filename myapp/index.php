@@ -5,6 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, minus beatae quae deleniti, tempora in accusantium, cumque itaque, ab id repudiandae aspernatur architecto asperiores neque. Quas quaerat ipsum quod aliquam.
 	<?php
 	echo "hi";
 	?>
